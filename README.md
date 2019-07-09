@@ -11,3 +11,7 @@ cd deploy_swarm && chown -R 755 .
 然后执行
 
 ./deploy_swarm_master.sh
+
+详情关注个人公众号，获取行业最新动态及实用工具，获得万套前端模板
+
+![index1](https://github.com/luckman666/devops_kkit/blob/master/gzh.jpg)
